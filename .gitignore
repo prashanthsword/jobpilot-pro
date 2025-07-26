@@ -1,0 +1,19 @@
+# 🔒 Ignore Python virtual env and cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧠 Streamlit + logs
+.streamlit/
+*.log
+
+# 💾 Model weights
+*.pt
+*.ckpt
+*.onnx
+
+# 💻 System files
+.DS_Store
+Thumbs.db

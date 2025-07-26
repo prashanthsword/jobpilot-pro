@@ -1,0 +1,26 @@
+Here is a short, ATS-friendly cover letter:
+
+**[Your Name]**
+**123 Main Street**
+**Anytown, USA 12345**
+**(555) 555-5555 | [yourname@email.com](mailto:yourname@email.com)**
+
+**[Company Name]**
+**Career Opportunities**
+**[Date]**
+
+
+
+Dear Hiring Manager,
+
+I am excited to apply for the **[Job Title]** role at **[Company Name]**, as advertised. With a strong background in **[Industry/Field]** and a proven track record of delivering results in **[Key Skills or Accomplishments]**, I believe I would be an excellent fit for your team.
+
+As a highly motivated and detail-oriented professional, I possess the skills and experience necessary to excel in this position. My expertise includes **[Relevant Keywords]**, with a focus on **[Specific Area of Expertise]**. I am confident that my skills align with the job requirements and would be an asset to your organization.
+
+I have attached my resume for further review. Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+
+**[Your Name]**
+
+Please note: This is just a sample, so make sure to customize it according to your own experiences and the specific job description. Also, be mindful of ATS keywords and formatting requirements to increase the chances of your application being successfully parsed by applicant tracking systems.

@@ -1,0 +1,15 @@
+description?
+Generate one in seconds with AI
+Job brief
+We’re seeking a Senior Data Engineer to enhance our Data Science Team, focusing on implementing and managing data workflows that support machine learning models and large-scale analytics. This role involves designing ETL processes, ensuring data quality, and deploying ML models to production.
+
+The ideal candidate will have a strong computer science background, advanced Python knowledge, and experience with cloud services, SQL/NoSQL databases, and Docker/Kubernetes.
+
+You’ll work closely with our data science and product teams to drive insights and innovations.
+
+Responsibilities
+Design and implement ETL processes for data transformation and preparation
+Deploy machine learning models to production environments
+Manage data pipelines for analytics and operational use
+Ensure data accuracy and integrity across multiple sources and systems
+Collaborate with data scientists to support NLP algorithms and analytics

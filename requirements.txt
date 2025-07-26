@@ -1,0 +1,56 @@
+# UI
+streamlit
+streamlit-chat
+plotly
+
+# PDF + Image parsing
+PyMuPDF
+pdfplumber
+pytesseract
+opencv-python
+
+# Embedding + AI
+faiss-cpu
+openai
+langchain
+llama-index==0.9.48
+transformers
+accelerate
+sentence-transformers
+torch
+torchaudio
+
+# LangGraph Workflow
+langgraph
+
+# Whisper + Voice
+whisper
+SpeechRecognition
+
+# Voice + Translation
+googletrans==4.0.0-rc1
+pyaudio
+TTS
+pydub
+
+# OCR (image JD parsing)
+easyocr
+
+# DB + Auth
+firebase-admin
+supabase
+pymongo
+python-dotenv
+
+# Job Scraping
+beautifulsoup4
+selenium
+requests
+
+# Others
+tqdm
+reportlab
+fpdf
+
+httpx<1.0
+openai
